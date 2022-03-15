@@ -1,7 +1,7 @@
 {
   "name": "react_calc_imc",
   "version": "0.1.0",
-  "homepage": "https://CristianoMorais.github.io/calc-imc-react.git",
+  "homepage": "./",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist",
   "private": true,
