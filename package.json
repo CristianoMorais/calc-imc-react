@@ -1,7 +1,9 @@
 {
   "name": "react_calc_imc",
   "version": "0.1.0",
-  "homepage": "./",
+  "homepage": "https://CristianoMorais.github.io/calc-imc-react.git",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
@@ -40,5 +42,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
