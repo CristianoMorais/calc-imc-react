@@ -1,4 +1,4 @@
-# Projeto para calculo de índice de massa corpórea
+# Projeto para cálculo de índice de massa corpórea
 
 Este projeto foi utilizado para solificar os conhecimentos de estudo sobre React + Typescript
 
